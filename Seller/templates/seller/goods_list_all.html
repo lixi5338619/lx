@@ -1,0 +1,74 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ onegoods.goods_name  }}详细信息</title>
+    <link rel="stylesheet" href="{% static 'seller/css/font.css' %}">
+	<link rel="stylesheet"  href="{% static 'seller/css/xadmin.css' %}">
+    <script type="text/javascript" src="{% static 'seller/js/jquery.min.js' %}"></script>
+    <script src="{% static 'seller/lib/layui/layui.js' %}" charset="utf-8"></script>
+    <script type="text/javascript" src="{% static 'seller/js/xadmin.js' %}"></script>
+    <link rel="stylesheet" href="{% static 'seller/css/bootstrap.css' %}">
+    <link rel="stylesheet" href="{% static 'seller/css/bootstrap.min.css' %}">
+      <style>
+           .layui-table th{
+               font-size: 16px;
+           }
+         #XXX{
+             width: 80%;
+             margin:auto;
+         }
+      </style>
+</head>
+
+  <body class="layui-anim layui-anim-up">
+    <div class="x-nav">
+      <span class="layui-breadcrumb">
+        <a href="">商品管理</a>
+        <a href="/seller/page_goods_list/1">商品列表</a>
+      </span>
+    </div>
+    <div class="x-body" id="XXX">
+
+    <table class = "layui-table" style="margin-top: 50px">
+        <tr>
+{#            <th rowspan = "4">#}
+{#                <img style = "width: 200px; height: 200px" src="/static{{ Image.img_adress }}">#}
+{#            </th>#}
+           </tr>
+        <tr>
+            <th style="width: 220px" >商品名称:</th>
+            <td>{{ onegoods.goods_name }}</td>
+        </tr>
+        <tr>
+            <th>商品ID:</th>
+            <td>{{ onegoods.goods_id }}</td>
+        </tr>
+        <tr>
+            <th>商品描述:</th>
+            <td>{{ onegoods.goods_description }}</td>
+        </tr>
+        <tr>     <th>商品库存:</th>
+            <td>{{ onegoods.goods_num }}</td>
+        </tr>
+        <tr>
+            <th>商品原价:</th>
+            <td>{{ onegoods.goods_price }}</td>
+        </tr>
+        <tr>
+            <th>商品现价:</th>
+            <td>{{ onegoods.goods_now_price }}</td>
+        </tr>
+        <tr>
+            <th>商品详情:</th>
+            <td>{{ onegoods.goods_content }}</td>
+        </tr>
+
+    </table>
+    </div>
+
+  </body>
+
+</html>

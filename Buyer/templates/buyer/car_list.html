@@ -1,0 +1,115 @@
+{% extends "buyer/base.html" %}
+
+{% load static %}
+
+{% block content %}
+    <div class="cart_list">
+        <div class="cart_top">我的购物车</div>
+        <form action="/buyer/enter_order/" method="post">
+            {% csrf_token %}
+            <div class="cart_listbox">
+                <table width="100%" cellpadding="0" cellspacing="0" border='0px'>
+                    <thead>
+                    <tr>
+                        <th width='10%'>
+                            <input type="checkbox" id = "all" style="margin-top: 20px; margin-left: 10px;width: 24px; height: 24px;">
+                        </th>
+                        <th width='10%'>商品名称</th>
+                        <th width='20%'>商品缩略图</th>
+                        <th width='20%'>商品单价</th>
+                        <th width='20%'>商品数量</th>
+                        <th width='20%'>商品小计</th>
+                        <th width='10%'>操作</th>
+                    </tr>
+                    </thead>
+                    <tbody id = "j_tb">
+                        {% if price_list %}
+                            {% for data in price_list %}
+                                <tr>
+                                <td>{#clean_fields#}
+                                    <input name="name_{{ data.goods.id}}" value="{{ data.goods.id }}" type="checkbox" style="margin-left: 60px; width: 24px; height: 24px;">
+                                </td>
+                                <td><a href="#">{{ data.goods.goods_name }}</a></td>
+                                <td><a href="#"><img src="{{ data.img }}" /></a></td>
+                                <td>￥{{ data.goods.goods_price }}元</td>
+                                <td><input type="submit" name="-" value="-" class="btn1" formaction="" />
+                                    <input type="text" value="{{ data.goods.goods_num }}" name="count" class="text1"/>
+                                    <input type="submit" name="+" value="+" class="btn1" formaction=""/></td>
+                                <td>￥{{ data.price }}</td>
+                                <td><a href="/buyer/delete_goods/{{  data.goods.goods_id }}/">删除</a></td>
+                                </tr>
+                            {% endfor %}
+                        {% else %}
+                        <tr>
+                        <td colspan="6" style="text-align: center;">购物车空空如也~~，请快去购物吧！</td>
+                        </tr>
+
+                        {% endif %}
+                    </tbody>
+                </table>
+
+                </div>
+                <div class="shouhuo">
+                <div class="shouhuo_top">收货信息</div>
+                <label>收货地址:</label>
+                <select name="address" id="" class="input">
+                    {% for add in address_list %}
+                        <option value="{{ add.id }}" class="input">{{ add.recver }}---{{ add.address }}</option>
+                    {% endfor %}
+                </select>
+                <label>支付方式:</label>
+                <select name="pay_Method" id="" class="input">
+                        <option value="zfb" class="input">支付宝</option>
+                        <option value="wx" class="input">微信</option>
+                        <option value="bank" class="input">银行卡</option>
+                </select>
+
+
+                 <div class="clearcart" style="margin-left: 30px;margin-top:9px;font-size: 24px">
+                      <a href="/buyer/address/" class="btn">添加新地址</a>
+                </div>
+            </div>
+                <div class="goon">
+                    <div class="clearcart" style="margin-left: -8px">
+                        <a href="/buyer/clear_goods/" class="btn">清空购物车</a>
+                    </div>
+
+
+
+                    <div class="totalprice">
+
+                 </div>
+
+                <div class="order">
+                        <input type="submit" value="立即下单" class="btn"/>
+                </div>
+
+            </div>
+        </form>
+    </div>
+    <script>
+        function check(selector) {
+            return document.querySelector(selector)//捕获的是一个数组
+        }
+        check("#all").onclick = function () {
+           var input = check('#j_tb').getElementsByTagName('input');
+           for (var i = 0;i < input.length;i++){
+               input[i].checked = this.checked //this 执行函数的对象 checked 属性 返回当中选中的状态，也可以赋值使用
+           }
+        };
+        var inputs = check('#j_tb').getElementsByTagName('input');
+        for(var i =0;i<inputs.length ;i++){
+            inputs[i].onclick = function () {
+                var flag = true;  /*flag = false 底下的复选框全被选中*/
+                for(var j =0;j<inputs.length ;j++){
+                    if(!inputs[j].checked){
+                        flag = false;
+                        break
+                    }
+                }
+                check('#all').checked = flag ;
+            }
+        }
+
+    </script>
+{% endblock %}

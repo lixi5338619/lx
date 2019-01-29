@@ -1,0 +1,41 @@
+{% extends "buyer/base.html" %}
+{% load static %}
+
+{% block content %}
+    <div class="users_box">
+        <div class="users_box_top">会员注册</div>
+        <div class="users_box_bottom">
+            <div class="box_bottom_left"><img src="{% static 'buyer/images/huiyuan.jpg' %}"/></div>
+            <div class="box_bottom_right">
+
+                <form method="post" action="">
+                    {% csrf_token %}
+                    <div>
+                        昵称：<input type="text" name="username" placeholder="请输入昵称" required="" id = "zhuce" class="input"/><span></span>
+                    </div>
+                    <div>
+                        密码：<input type="password" name="userpass" placeholder="请输入密码" required="" class="input"/>
+                    </div>
+                    <div >
+                        <input type="submit" id="submit"  value="注册会员" class="gouwu"/>
+                    </div>
+                </form>
+                <p style="float: right; margin-right: 192px">
+                    <span>
+                        <a href="/register_email/">
+                            邮箱注册
+                        </a>
+                    </span>
+                    <span>
+                        <a href="/register_phone/">
+                            手机注册
+                        </a>
+                    </span>
+
+                </p>
+            </div>
+        </div>
+
+
+    </div>
+{% endblock %}

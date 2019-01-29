@@ -1,0 +1,81 @@
+{% extends "buyer/base.html" %}
+
+{% load static %}
+
+{% block content %}
+    <div class="cart_list">
+
+        <div class="cart_top">
+            我的地址
+           <span style="float: right" >
+                <button class="btn"><a href="/buyer/carList//" style="color: white;">返回购物车</a></button>
+           </span>
+
+            <span style="float: right; margin-right: 220px" >
+                <button class="btn"><a href="/buyer/addAddress/" style="color: white;">新增地址</a></button>
+            </span>
+        </div>
+        <div class="cart_listbox">
+            <table width="100%" cellpadding="0" cellspacing="0" border='0px'>
+                <tr>
+                    <th width='10%'>
+                        <input type="checkbox" id = "all" style="margin-top: 20px; margin-left: 10px;width: 24px; height: 24px;">
+                    </th>
+                    <th width='10%'>收货人</th>
+                    <th width='10%'>电话</th>
+                    <th width='60%'>地址</th>
+                    <th width='10%'>操作</th>
+                </tr>
+                {% for address in address_list %}
+                <tr>
+                    <th width='10%'>
+                        <input type="checkbox" id = "all" style="margin-top: 20px; margin-left: 10px;width: 24px; height: 24px;">
+                    </th>
+                    <th width='10%'>{{ address.recver }}</th>
+                    <th width='10%'>{{ address.phone }}</th>
+                    <th width='70%'>{{ address.address }}</th>
+                    <th width='70%'>
+                        <a href="/buyer/changeAddress/{{ address.id }}/">修改</a>
+                        <a href="/buyer/delAddress/{{ address.id }}/">删除</a>
+                    </th>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    <script>
+        function submit() {
+            var inputs = document.getElementsByName("checkbox");
+            var result = "/buyer/enter_order?";
+            for(var i =0;i<inputs.length ;i++){
+                if(inputs[i].checked){
+                        result += "key_"+i+"="+inputs[i].value+"&"
+                    }
+            }
+            window.location.href = result.slice(0,-1)
+        }
+        function check(selector) {
+            return document.querySelector(selector)//捕获的是一个数组
+        }
+        check("#all").onclick = function () {
+           var input = document.getElementsByName("checkbox");
+           for (var i = 0;i < input.length;i++){
+               input[i].checked = this.checked //this 执行函数的对象 checked 属性 返回当中选中的状态，也可以赋值使用
+           }
+        };
+        var inputs = document.getElementsByName("checkbox");
+        for(var i =0;i<inputs.length ;i++){
+            inputs[i].onclick = function () {
+                var flag = true;  /*flag = false 底下的复选框全被选中*/
+                for(var j =0;j<inputs.length ;j++){
+                    if(!inputs[j].checked){
+                        flag = false;
+                    }
+                }
+                check('#all').checked = flag ;
+            }
+        }
+
+
+    </script>
+{% endblock %}

@@ -1,0 +1,34 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="{% static 'ckeditor/ckeditor/ckeditor.js' %}"></script>
+    <script src="{% static 'buyer/js/jquery.min.js' %}"></script>
+
+</head>
+<body>
+
+        <script>
+            $(
+                function () {
+                    $.ajax(
+                        {
+                            url: "/Api/goods/?type=select&all=true",
+                            type:"get",
+                            data:"",
+                            success:function (data) {
+                                console.log(data)
+                            },
+                            error:function (error) {
+
+                            }
+                        }
+                    )
+                }
+            )
+        </script>
+
+</body>
+</html>

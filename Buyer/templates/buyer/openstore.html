@@ -1,0 +1,41 @@
+{% extends "buyer/base.html" %}
+
+{% block content %}
+    <!-- 头部结束 -->
+      <div class="store">
+        <p>卖家免费开店</p>
+        <div class="store_box">
+        <form method="post" action="" >
+           
+            <div class="line">
+                <label>用户名称</label>
+                <input type="text" name="username" class="input"/>
+            </div>
+            <div class="line">
+                <label>店铺名称</label>
+                <input type="text" name="shop_name" class="input"/>
+            </div>
+            <div class="line">
+                <label>卖家昵称</label>
+                <input type="text" name="nicheng" class="input"/>
+            </div>
+            <div class="line">
+                <label>店铺地址</label>
+                <input type="text" name="shop_address" class="input"/>
+            </div>
+            <div class="line">
+                <label>店铺logo</label>
+                <input type="file" name="shop_logo" class='inputfile'/>
+            </div>
+            <div class="line">
+                <label></label>
+{#                <input type="submit" value="免费开店" class="btn"/>#}
+                <a href="/seller/login/" class="btn" style="padding: 10px">免费开店</a>
+            </div>
+        </form>
+
+
+        </div>
+   </div>
+
+{% endblock %}

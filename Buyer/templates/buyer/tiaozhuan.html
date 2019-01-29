@@ -1,0 +1,52 @@
+
+{% extends "buyer/base.html" %}
+{% load static %}
+{% block content %}
+    <link type="text/css" href="/" rel="stylesheet"/>
+    <style>
+			
+			
+			#back{
+            width: 300px;
+            height: 200px;
+            position:absolute;
+            left:0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            margin: auto;
+            text-align: center;
+				
+			}
+			
+		</style>
+
+    <!-- 头部开始 -->
+
+
+
+	<div id="back" style="font-size: 22px;line-height: 40px">
+            <p>支付成功 。等待返回首页</p>
+			<p><span>等待</span><span id="Time">1000</span><span>秒</span></p>
+			<p id='url' ><a href="/">等不及了,点击跳转</a></p>
+	</div>
+
+
+<script>
+			//使用匿名函数方法
+			function countDown(){
+				
+				var time = document.getElementById("Time");
+				//alert(time.innerHTML);
+				//获取到id为time标签中的内容，现进行判断
+				if(time.innerHTML == 0){
+					//等于0时清除计时
+					window.location.href="/";
+				}else{
+					time.innerHTML = time.innerHTML-1;
+				}
+			}
+			//1000毫秒调用一次
+			window.setInterval("countDown()",1000);
+		</script>
+{% endblock %}

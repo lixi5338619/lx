@@ -1,0 +1,313 @@
+<style>
+
+.jd-footer {
+    margin-top: 20px;
+}
+
+.jd-footer .slogen{
+    height: 54px;
+    padding: 20px 0;
+    background-color: #f5f5f5;
+    position: relative;
+}
+.slogen .item{
+    width: 302px;
+    height: 54px;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+}
+.slogen .slogen1{
+    margin-left: -608px;
+}
+.slogen .slogen2{
+    margin-left: -304px;
+}
+.slogen .slogen3{
+    margin-left: 2px;
+}
+.slogen .slogen4{
+    margin-left: 308px;
+}
+.slogen .item p{
+    position: absolute;
+    left: 50px;
+    top:0;
+    font: 700 18px/54px '微软雅黑';
+    color: #444;
+}
+
+.footer_bottom{
+    margin: 10px auto;
+    text-align: center;
+}
+.footer_bottom .link a{
+    font: 12px/20px "微软雅黑";
+}
+.footer_bottom  span{
+    padding:0 10px;
+}
+
+    ul li {
+        list-style: none;
+    }
+    .visible {
+        margin-bottom:60px;
+        margin-top: 10px;
+        width: 100%;
+        height: 380px;
+{#            border: 1px solid red;#}
+
+        position: relative;
+        overflow: hidden;
+    }
+    .visible .pic_box {
+{#            width:1686px ;#}
+        height: 380px;
+        position: absolute;
+        left:0;
+        top:0;
+    }
+
+    .visible .pic_box li {
+{#            width: 500px;#}
+        height: 470px;
+        float: left;
+    }
+    img {
+
+       height: 400px;
+        display: block;
+    }
+    .arrow {
+        margin-right:349px;
+        width: 50px;
+        height: 80px;
+        background: rgba(0,0,0,.4);
+        color: #fff;
+        font-size: 30px;
+        line-height: 80px;
+        position: absolute;
+        top:50%;
+        margin-top: -40px;
+        text-align: center;
+        cursor: pointer;
+    }
+    .arrow:hover {
+        background: rgba(0,0,0,.8);
+    }
+    #prev {
+        left :0;
+    }
+    #next {
+        right: 0;
+    }
+
+    .circles {
+        width: 200px;
+        height: 20px;
+
+        position: absolute;
+        left:20px;
+        bottom:30px;
+    }
+    .circles span {
+        display: inline-block;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        border: 3px solid #fff;
+        margin-left: 12px;
+        box-sizing: border-box;
+    }
+
+    .circles span.on {
+        background-color: #fff;
+    }
+
+</style>
+
+{% extends "buyer/base.html" %}
+{% load static %}
+{% block content %}
+
+    <script>
+    window.onload = function () {
+     /*相框元素*/
+    var vis = document.getElementsByClassName('visible')[0];
+    var yuans = document.querySelectorAll('.circles span');
+    console.log(yuans);
+    /*照片墙*/
+    var pic_box = document.getElementsByClassName('pic_box')[0];
+    var prev = document.getElementById('prev');
+    var next = document.getElementById('next');
+    /*指示小圆点的下标  */
+    var index = 0 ;
+    /*定义函数控制图片移动*/
+    function ani(offset) {
+         console.log(pic_box.style.left);//0
+         var newLeft = parseInt(pic_box.style.left)+offset ;
+         /*出去4张*/
+         if(newLeft<-4000){
+             newLeft = 0;
+         }
+         if(newLeft>0){
+             newLeft = -4000;
+         }
+         pic_box.style.left = newLeft + 'px';
+    }
+
+   next.onclick = function () {
+
+       ani(-1000);
+       index++; //1
+       if(index===5){
+           index = 0;
+       }
+       buttonShow();
+
+   };
+    prev.onclick = function () {
+        index--;
+        if(index===-1){
+            index = 4;
+        }
+        /*右箭头  传入 -590*/
+        ani(1000);
+        buttonShow();
+    };
+    /*自动轮播  加定时器*/
+    var timer ; //全局变量
+    function play() {
+        timer = setInterval(function () {
+            next.onclick();
+            /*小圆点 */
+        },2000);
+    }
+    play();
+
+    /*鼠标移入图片切换  鼠标图片停止切换 ====》清除定时器*/
+    vis.onmouseenter = function () {
+        clearInterval(timer);
+    };
+    vis.onmouseleave = function () {
+        play();
+    };
+
+    /*小圆点的切换函数*/
+
+    function buttonShow() {
+        for(var i =0;i<yuans.length ;i++){
+            yuans[i].className = ' ';
+        }
+        yuans[index].className = 'on';
+    }
+    /*index = 2    recentIndex = 3  (2-3)*590 =-590 */
+
+    for(var i =0;i<yuans.length ;i++){
+        yuans[i].onmouseover = function () {
+            var recentIndex = this.getAttribute('a');
+            console.log(recentIndex);
+
+            offset = (index-recentIndex)*1000;
+            ani(offset);
+            index = recentIndex ; //新旧更替
+            buttonShow();
+        }
+    }
+}
+    </script>
+
+
+    <div class="visible">
+        <ul class="pic_box" style="left:0">
+        <li><a href="javascript:"><img  style="width: 1000px " src="/static/buyer/images/banner4.jpg" alt=""></a></li>
+        <li><a href="javascript:"><img style="width: 1000px" src="/static/buyer/images/banner1.png" alt=""></a></li>
+        <li><a href="javascript:"><img  style="width: 1000px" src="/static/buyer/images/banner2.jpg" alt=""></a></li>
+        <li><a href="javascript:"><img  style="width: 1000px" src="/static/buyer/images/banner3.jpg" alt=""></a></li>
+        <li><a href="javascript:"><img  style="width: 1000px" src="/static/buyer/images/banner5.jpg" alt=""></a></li>
+    </ul>
+
+        <!--箭头-->
+        <div class="arrow" id="prev"><  </div>
+        <div class="arrow" id="next">> </div>
+        <!--小圆圈-->
+        <div class="circles">
+            <span class="on" a="0"></span>
+            <span a="1"></span>
+            <span a="2"></span>
+            <span a="3"></span>
+            <span a="4"></span>
+        </div>
+
+        <div style="float: right;width: 280px;height:400px;"><img style="width: 270px" src="/static/buyer/images/youtu.png" alt=""></div>
+    </div>
+
+    <div class="shop_list">
+            <div class="list1_box">
+                {% for data in datas %}
+                <div class="list_box">
+                     <dl>
+                        <a href="/buyer/goods_details/{{ data.id }}/">
+                        <dt><img  style="border-radius: 10%;width: 255px;" src="{{ data.img }}"/>
+                            </dt>
+                        <dd align="center">
+                            <p style="margin-top: 0px;">{{ data.name }}   ￥{{ data.price }}元</p>
+
+                        </dd>
+                        </a>
+                    </dl>
+                </div>
+                {% endfor %}
+
+            </div>
+
+        </div>
+
+    <div class="jd-footer">
+    <div class="service">
+        <div class="slogen">
+            <span class="item slogen1">
+                <i class="duo"></i>
+                <p>品类齐全 轻松购物</p>
+            </span>
+            <span class="item slogen2">
+                <i class="kuai"></i>
+                <p>多仓直发 极速配送</p>
+            </span>
+            <span class="item slogen3">
+                <i class="hao"></i>
+                <p>正品行货 精致服务</p>
+            </span>
+            <span class="item slogen4">
+                <i class="sheng"></i>
+                <p>天天低价 畅选无忧</p>
+            </span>
+        </div>
+
+    </div>
+    <div class="footer_bottom">
+        <div class="w">
+            <div class="link">
+                <a href="javascript:;">关于我们</a><span>|</span>
+                <a href="javascript:;">联系我们</a><span>|</span>
+                <a href="javascript:;">联系客服</a><span>|</span>
+                <a href="javascript:;">合作招商</a><span>|</span>
+                <a href="javascript:;">商家帮助</a><span>|</span>
+                <a href="javascript:;">营销中心</a><span>|</span>
+                <a href="javascript:;">手机购物</a><span>|</span>
+                <a href="javascript:;">友情链接</a><span>|</span>
+                <a href="javascript:;">销售联盟</a><span>|</span>
+                <a href="javascript:;">生鲜社区</a><span>|</span>
+                <a href="javascript:;">风险监测</a><span>|</span>
+                <a href="javascript:;">隐私政策</a><span>|</span>
+                <a href="javascript:;">生鲜公益</a><span>|</span>
+                <a href="javascript:;">English Site</a><span>|</span>
+                <a href="#">Media & IR</a>
+            </div>
+
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

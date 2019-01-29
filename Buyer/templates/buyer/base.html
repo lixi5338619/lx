@@ -1,0 +1,62 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}全球生鲜商城网站{% endblock %}</title>
+    <script src="{% static 'buyer/js/jquery.min.js' %}"></script>
+
+    <link type="text/css" href="{% static 'buyer/css/index.css' %}" rel="stylesheet"/>
+    {% block style %}
+    {% endblock %}
+</head>
+<body>
+    <!-- 头部开始 -->
+   <div class="header">
+    <ul>
+
+        {% if request.session.username %}
+            <li><a href="/logout/">[注销]</a></li>
+            <li><a href="/buyer/openstore/">[免费开店]</a></li>
+            <li><a href="/buyer/carList/">[购物车]</a></li>
+            <li>欢迎：<a href="">{{ request.session.username }}</a></li>
+        {% else %}
+{#            <li><a href="/buyer/openstore/">[免费开店]</a></li>#}
+            <li><a href="/buyer/carList/">[购物车]</a></li>
+            <li><a href="/register/">[注册有惊喜]</a></li>
+            <li><a href="/login/">[登录]</a></li>
+        {% endif %}
+    </ul>
+    </div>
+
+
+    <div class="header_logo">
+            <div class="logo"></div>
+            <div class="nav" style="width: 350px">
+                <ul>
+                    <li><a href="/">首页<br/>Home</a></li>
+                    <li><a href="/buyer/goods_type/">鲜果<br/>Fruit</a></li>
+                    <li><a href="">会员中心<br/>VIP Club</a></li>
+                    <li style="margin-left: 20px;width: 100px"><a href="/seller/login/">&nbsp卖家中心<br/>Seller Club</a></li>
+                </ul>
+            </div>
+    </div>
+    <!-- 头部结束 -->
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

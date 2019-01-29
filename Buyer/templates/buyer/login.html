@@ -1,0 +1,44 @@
+<style>
+    .xixixi{
+
+        border: 1px solid #dcdcdc;
+         box-shadow: -8px 10px 7px #dcdcdc;
+{#        box-shadow: 5px 5px 2px #dcdcdc;#}
+        width: 460px;
+        border-radius: 12px;
+    }
+</style>
+{% extends "buyer/base.html" %}
+{% load static %}
+{% block content %}
+    <div class="users_box">
+        <div class="users_box_top">会员登录</div>
+        <div class="users_box_bottom">
+            <div class="box_bottom_left">
+                <a href="/register/"><img src="{% static 'buyer/images/huiyuan2.png' %}"/></a>
+            </div>
+
+            <div class="box_bottom_right">
+                <form method="post" action="">
+                    {% csrf_token %}
+                    <div class="xixixi">
+                    <div>
+                        昵称：<input type="text" name="username" placeholder="请输入昵称" class="input"/>
+                    </div>
+                    <div>
+                        密码：<input type="password" name="userpass" placeholder="请输入密码" class="input"/>
+                    </div>
+                    </div>
+
+                       <div>
+                        <input type="submit" value="登录" class="gouwu"/>
+                    </div>
+
+
+                </form>
+                <p style="color: red;margin-top: -80px;font-size: 24px;margin-left: 323px;">{{ result.data }}</p>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

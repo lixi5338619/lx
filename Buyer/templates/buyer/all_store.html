@@ -1,0 +1,22 @@
+{% extends "buyer/base.html" %}
+{% load static %}
+{% block content %}
+
+    <div class="goods_type">
+        <div class="shop_box_top">
+            <span class="box_left">店铺</span>
+            <span class="box_right"><a href="#" target="_blank">更多>></a></span>
+        </div>
+        <div class="box_list">
+            <dl align="center">
+                <dt><a href="#" ><img src="{% static '/buyer/images/11.jpg' %}"/></a></dt>
+                    <dd>
+                        <p> <a href="#">店铺</a></p>
+                        <p>掌柜：张三<a href="#">进店>></a></p>
+                    </dd>
+                </dl>
+        </div>
+
+    </div>
+
+{% endblock %}

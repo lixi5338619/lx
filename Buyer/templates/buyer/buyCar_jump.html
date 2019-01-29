@@ -1,0 +1,40 @@
+{% extends "buyer/base.html" %}
+
+{% load static %}
+
+{% block content %}
+    <div class="cart_list">
+        <div class="cart_top">{{ goods_name }}已经成功添加到购物车</div>
+            <div class="cart_listbox">
+            <table width="100%" cellpadding="0" cellspacing="0" border='0px'>
+                <tr>
+                    <th width='10%'>商品名称</th>
+                    <th width='20%'>商品缩略图</th>
+                    <th width='20%'>商品单价</th>
+                    <th width='20%'>商品数量</th>
+                    <th width='20%'>商品小计</th>
+                </tr>
+
+                    <form method="post">
+                        <tr>
+                        <td><a href="">{{ buyCar.goods_name }}</a></td>
+                        <td><a href=""><img src="{{ img }}" /></a></td>
+                        <td>￥{{ buyCar.goods_price }}元</td>
+                        <td>{{ count }}</td>
+                        <td>￥{{ all_price }}</td>
+                    </form>
+                </tr>
+
+            </table>
+
+            <br>
+            <div>
+                    <a class="btn" href = "/buyer/goods_details/{{ goods_id }}/">返回详情页</a>
+                    <a class="btn" href = "/buyer/carList/{{ request.cookie.user_id }}">去购物车结算</a>
+            </div>
+        </div>
+        </div>
+
+    </div>
+{% endblock %}
+

@@ -1,0 +1,69 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="UTF-8">
+    <title>全球生鲜卖家管理后台</title>
+    <link rel="stylesheet" href="{% static 'seller/css/font.css' %}">
+	<link rel="stylesheet"  href="{% static 'seller/css/xadmin.css' %}">
+    <script type="text/javascript" src="{% static 'seller/js/jquery.min.js' %}"></script>
+    <script src="{% static 'seller/lib/layui/layui.js' %}" charset="utf-8"></script>
+    <script type="text/javascript" src="{% static 'seller/js/xadmin.js' %}"></script>
+
+</head>
+  <body class="layui-anim layui-anim-up">
+    <div class="x-nav">
+      <span class="layui-breadcrumb">
+        <a href="">商品管理</a>
+        <a href="">商品列表</a>
+      </span>
+    </div>
+    <div class="x-body">
+      <table class="layui-table">
+        <thead>
+          <tr>
+		    <th>商品id</th>
+            <th>商品编号</th>
+            <th>商品名称</th>
+            <th>商品原价</th>
+            <th>商品现价</th>
+            <th>商品库存</th>
+			<th>商品描述</th>
+            <th>操作</th>
+			</tr>
+        </thead>
+      <tbody>
+          {% for i in goods_list %}
+              <tr>
+                <td>{{ i.id }}</td>
+                <td>{{ i.goods_id }}</td>
+                <td><a href="/seller/goods_list_all/{{ i.goods_id }}/">{{ i.goods_name  }}</a></td>
+                <td>{{ i.goods_price }}</td>
+                <td>{{ i.goods_now_price }}</td>
+                <td>{{ i.goods_num }}</td>
+                <td>{{ i.goods_description }}</td>
+                <td >
+                    <a href="/seller/goods_change/{{ i.id }}/">编辑</a> <a href="/seller/goods_del/{{ i.id }}/">删除</a>
+                </td>
+              </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+     <div style="">
+         <ul class = "pagination" style="float: right;font-size:23px;
+         position:relative ;margin-right: 50px;">
+        {% for page in page_range %}
+            <span class = "paginate_button page-item previous ">
+                <a style="color:#75a2e3" id="fenye" class="page-link" href = "/seller/page_goods_list/{{ page }}/">{{ page }}<></a>
+            </span>
+        {% endfor %}
+        </ul>
+     </div>
+  </body>
+  <script>
+
+  </script>
+</html>

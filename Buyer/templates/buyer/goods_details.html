@@ -1,0 +1,96 @@
+{% extends "buyer/base.html" %}
+
+{% load static %}
+
+{% block content %}
+    <div class="goods_type">
+        <div class="goods_details"><a href="#">首页</a> >  全球生鲜</div>
+        <div class="goods_box">
+            <div class="box_pic"><img src="{{ good_img }}"/></div>
+            <div class="box_details">
+                <form method="post" action="/buyer/carJump/{{ good.id }}/">
+                    {% csrf_token %}
+                    <h1>{{ good.goods_name }}</h1>
+                    <span style='font-size: 15px;'>{{ good.goods_description }}</span>
+                    <div class="box_bg">价格：￥<span style="font-size: 40px; font-weight: bold; font-family:'微软雅黑';color:#FD482C ">{{ good.goods_now_price }}</span>元&nbsp;&nbsp;原价:￥<s style='color: red'> {{ good.goods_price }}</s></div>
+                    <div class="address">配送：北京</div>
+                    <div class="address">存储方法：阴暗潮湿</div>
+                    <div class="num">数量：
+                        <input type="button" name="-" value="-" class="btn1" onclick="dec()" />
+                        <input type="text" value="1" id="count" name="count" class="text1"/>
+                        <input type="button" name="+" value="+" class="btn1" onclick="add()"/> </div>
+                        <input type="hidden" value="{{ good_img }}" name="good_img">
+                    <div class="btn2"><input type="submit" value="加入购物车" class="gouwu"/> </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var count ;
+        function add()
+        {
+            count = document.getElementById('count').value;
+            count++
+            document.getElementById('count').value = count;
+        }
+        function dec()
+        {
+            count = document.getElementById('count').value;
+            count--;
+            if(document.getElementById('count').value == 1)
+            {
+                document.getElementById('count').value = 1
+            }
+            else
+            {
+                document.getElementById('count').value = count;
+            }
+        }
+    </script>
+    <div class="goods_type1">
+        <div class="type1_left">
+            <div class="type1_top">其他商品</div>
+            <div class="type1_bottom">
+                    {% for g in data %}
+                       <a href="/buyer/goods_details/{{ g.id }}/">
+                       <dl>
+                        <dt><img src="{{ g.img }}"/> </dt>
+                            <dd>
+                                <span class="pname">
+                                    {{ g.name }}
+                                </span>
+                                <p class="price">{{ g.price }}</p>
+                            </dd>
+                        </dl>
+                       </a>
+                    {% endfor %}
+            </div>
+        </div>
+        <div class="type1_right">
+            <div class="type1_top">商品详情</div>
+            <div class="type1_bottom" style="margin-left: -5px">{{ good.goods_content }}</div>
+        </div>
+        <br/>
+        <div class="type1_right">
+            <div class="type1_top">商品评价</div>
+            <div class="type1_bottom">
+
+                     <div class="comment_box1" style="margin-top: 15px">
+                        <div><span style="border: 1px solid chartreuse">会员:Lx</span></div>&nbsp;&nbsp;&nbsp;
+                        <span>评论内容:真的超级喜欢，非常支持，质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，物流公司服务态度很好，运送速度很快，很满意的一次购物</span>
+                        <span style="float:right">评论时间:2019-2-19</span>
+                     </div>
+                     <div class="comment_box1" style="margin-top: 60px;" >
+                        <div><span style="border: 1px solid chartreuse">会员:777</span></div>&nbsp;&nbsp;&nbsp;
+                        <span>评论内容:我是我们村第二个在网上上买东西的人，因为我们村子比较落后，大部分的人没有网购的条件，他们一般都是在村东头的小卖部购买生活所需。当听说777在网上买东西后，整个村子都沸腾了。我也赶紧来体验一下城里人的生活</span>
+                        <span style="float:right">评论时间:2019-2-17</span>
+                     </div>
+                     <div class="comment_box1" style="margin-top: 80px;" >
+                        <div><span style="border: 1px solid chartreuse">会员:666</span></div>&nbsp;&nbsp;&nbsp;
+                        <span>评论内容:我是我们村第一个在网上上买东西的人，因为我们村子比较落后，大部分的人没有网购的条件，他们一般都是在村东头的小卖部购买生活所需。当听说我在网上买东西后，整个村子都沸腾了。</span>
+                        <span style="float:right">评论时间:2019-2-15</span>
+                     </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
