@@ -1,0 +1,2070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32c5a6d2-184b-4715-a584-dbc31222980d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/4b9b4225-5559-4ab6-b106-2a070d489f2d/_metadata_/metadata.values.at" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/banner1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/banner2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/banner3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/banner4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/banner5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/images/huiyuan2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/icons/codesnippet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/icons/hidpi/codesnippet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_papersq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/icons/docprops-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/icons/docprops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/icons/hidpi/docprops-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/icons/hidpi/docprops.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embed/icons/embed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embed/icons/hidpi/embed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/flash/images/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/images/hiddenfield.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/iframe/images/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image/images/noimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/icons/hidpi/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/icons/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/icons/hidpi/language.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/icons/language.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/link/images/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/link/images/hidpi/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/magicline/images/hidpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/magicline/images/icon-rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/magicline/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/icons/hidpi/mathjax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/icons/mathjax.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/images/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/pagebreak/images/pagebreak.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/icons/hidpi/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/icons/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_address.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_blockquote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_div.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_h6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_p.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/showblocks/images/block_pre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/angel_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/angel_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/angry_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/angry_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/broken_heart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/broken_heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/confused_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/confused_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/cry_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/cry_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/devil_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/devil_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/embaressed_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/embarrassed_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/embarrassed_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/envelope.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/envelope.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/heart.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/heart.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/kiss.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/kiss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/lightbulb.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/lightbulb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/omg_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/omg_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/regular_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/regular_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/sad_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/sad_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/shades_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/shades_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/teeth_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/teeth_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/thumbs_down.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/thumbs_down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/thumbs_up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/thumbs_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/tongue_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/tongue_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/tounge_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/wink_smile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/images/wink_smile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/templates/images/template1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/templates/images/template2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/templates/images/template3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/icons/hidpi/uicolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/icons/uicolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/assets/hue_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/assets/hue_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/assets/picker_mask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/assets/picker_thumb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/images/handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/icons_hidpi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/hidpi/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/hidpi/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/hidpi/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/hidpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/1_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/1_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/aiwrap.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/内蒙古风干牛肉干_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/广西武鸣沃柑_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/延世牧场牛奶_0.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/延世牧场牛奶_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/延世牧场牛奶_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/延世牧场牛奶_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/延世牧场牛奶_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新西兰银鳕鱼_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜瓜果_7.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/新鲜草莓_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_6.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/智利原装车厘子_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红富士苹果_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/红心芭乐番石榴_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/羊排羊棒骨头_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/葡萄黑提 _7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/seller/images/蜜瓜香瓜_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/4b9b4225-5559-4ab6-b106-2a070d489f2d/storage.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/migrations/0002_emailvalid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/migrations/0003_buycar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/static/buyer/js/lunbotu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/buyCar_jump.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/car_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/found404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/page500.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/register_mail.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/templates/buyer/tiaozhuan.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Buyer/text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seller/migrations/0002_auto_20190116_1144.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seller/static/seller/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seller/static/seller/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Seller/templates/seller/iframeExample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/buyer/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor-init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/build-config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/ckeditor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/es-mx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/oc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/adobeair/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/ajax/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autoembed/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autogrow/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/autolink/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/bbcode/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/dialogs/codesnippet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/CHANGES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/README.ru.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/highlight.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/arta.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ascetic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-dune.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-forest.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-heath.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-lakeside.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/atelier-seaside.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/brown_paper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/far.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/github.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/googlecode.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/idea.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/ir_black.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/magula.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/mono-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/monokai_sublime.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/obsidian.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/paraiso.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/pojoaque.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/railscasts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/rainbow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/school_book.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/solarized_light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/sunburst.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-bright.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night-eighties.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow-night.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/tomorrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/vs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/xcode.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/lib/highlight/styles/zenburn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/codesnippet/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/colordialog/dialogs/colordialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/devtools/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/dialog/dialogDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/div/dialogs/div.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/divarea/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/dialogs/docprops.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/docprops/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embed/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/dialogs/embedbase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/embedbase/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/filetools/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/find/dialogs/find.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/flash/dialogs/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/checkbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/hiddenfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/forms/dialogs/textfield.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/iframe/dialogs/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/iframedialog/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/dialogs/image2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/image2/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/language/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/lineutils/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/liststyle/dialogs/liststyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/dialogs/mathjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/mathjax/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/menubutton/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/notification/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/dialogs/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/placeholder/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/preview/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/dialogs/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/dialogs/options.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/dialogs/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sharedspace/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/smiley/dialogs/smiley.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/sourcedialog/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/az.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es-mx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/oc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/tableresize/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/dialogs/templates.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/dialogs/templates.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/templates/templates/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/dialogs/uicolor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/assets/yui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uicolor/yui/yui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/uploadimage/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/tt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/lang/zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/widget/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/dialogs/ciframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/dialogs/wsc_ie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/plugins/xml/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/dialog_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/editor_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono-lisa/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/dialog_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/dialog_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/editor_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/skins/moono/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/ckeditor/ckeditor/styles.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Fresh_Store$views.coverage" NAME="views Coverage Results" MODIFIED="1547293528957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Seller" />
+    <SUITE FILE_PATH="coverage/Fresh_Store$22222.coverage" NAME="22222 Coverage Results" MODIFIED="1548134360959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Buyer" />
+    <SUITE FILE_PATH="coverage/Fresh_Store$lx1211wxpy.coverage" NAME="lx1211wxpy单人机器人 Coverage Results" MODIFIED="1547555696055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/work/日常任务2" />
+    <SUITE FILE_PATH="coverage/Fresh_Store$Ceshi_Zhuanyong.coverage" NAME="Ceshi_Zhuanyong Coverage Results" MODIFIED="1547200332775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/work/日常任务2" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="db" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="db" type="e3449647:DbNodeDescriptor" />
+        <item name="main" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buyer/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4321">
+              <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#442#859#0" expanded="false" />
+                <element signature="e#910#1086#0" expanded="false" />
+                <element signature="e#1122#1483#0" expanded="false" />
+                <element signature="e#1522#2324#0" expanded="false" />
+                <element signature="e#2364#2727#0" expanded="false" />
+                <element signature="e#2768#2825#0" expanded="false" />
+                <element signature="e#2871#3887#0" expanded="false" />
+                <element signature="e#2965#3887#0" expanded="false" />
+                <element signature="e#3935#5185#0" expanded="false" />
+                <element signature="e#5218#5276#0" expanded="false" />
+                <element signature="e#5290#5316#0" expanded="false" />
+                <element signature="e#5827#6370#0" expanded="false" />
+                <element signature="e#7510#8057#0" expanded="false" />
+                <element signature="e#8699#10554#0" expanded="false" />
+                <element signature="e#10607#10768#0" expanded="false" />
+                <element signature="e#10824#11420#0" expanded="false" />
+                <element signature="e#11490#11982#0" expanded="false" />
+                <element signature="e#12049#12166#0" expanded="false" />
+                <element signature="e#13337#13364#0" expanded="false" />
+                <element signature="e#16696#19557#0" expanded="false" />
+                <element signature="e#19589#19616#0" expanded="false" />
+                <element signature="e#19680#19871#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buyer/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Fresh_Store/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Seller/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1914">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enterOrder.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/enterOrder.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1508">
+              <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Buyer/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fresh_Store/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1189">
+              <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>user_id</find>
+      <find>carList</find>
+      <find>list_box</find>
+      <find>all</find>
+      <find>all_pr</find>
+      <find>type1_bottom</find>
+      <find>safesafe</find>
+      <find>safe</find>
+      <find>box_bottom_left</find>
+      <find>huiyuan</find>
+      <find>set</find>
+      <find>number_51-0-0-0</find>
+      <find>1</find>
+      <find>alter</find>
+      <find>增加</find>
+      <find>count</find>
+      <find>car</find>
+      <find>first</find>
+      <find>firs</find>
+      <find>car_list</find>
+      <find>enter</find>
+      <find>img</find>
+      <find>goods.goods_id</find>
+      <find>goods_id</find>
+      <find>分页</find>
+      <find>enterOrder</find>
+      <find>免费</find>
+      <find>ALLOWED_HOSTS</find>
+      <find>Zhifubao_pay</find>
+      <find>all_p</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Buyer/templates/buyer/all_store.html" root0="SKIP_INSPECTION" root1="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/cart_list.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/chakan_order.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/conment.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/email_zhuce.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/goods_type.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/order_list.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/orderdetail.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/phone_zhuce.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/store_detail.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/user_center.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/welcome.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/all_store.html" />
+        <option value="$PROJECT_DIR$/Seller/templates/seller/goods_list.html" />
+        <option value="$PROJECT_DIR$/Seller/templates/seller/goods_list_all.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/users_zhuce.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/users_login.html" />
+        <option value="$PROJECT_DIR$/Buyer/static/buyer/js/lunbotu.js" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/register_mail.html" />
+        <option value="D:/Desktop/sendMessage.py" />
+        <option value="D:/work/日常任务2/lx1211wxpy单人机器人.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/register.html" />
+        <option value="$PROJECT_DIR$/Buyer/static/buyer/css/index.css" />
+        <option value="$PROJECT_DIR$/Seller/models.py" />
+        <option value="$PROJECT_DIR$/Seller/templates/seller/goods_add.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/login.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/goods_details.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/buyCar_jump.html" />
+        <option value="$PROJECT_DIR$/Buyer/static/buyer/js/gouwuche.js" />
+        <option value="D:/Desktop/仿中国化妆品商城网站整站模板html源码（购物车和金额数字可变）/cart.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/address.html" />
+        <option value="$PROJECT_DIR$/Buyer/models.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/openstore.html" />
+        <option value="D:/PythonProject/Project1/Lib/site-packages/alipay/__init__.py" />
+        <option value="$PROJECT_DIR$/Buyer/22222.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/car_list.html" />
+        <option value="$PROJECT_DIR$/Buyer/text.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/404.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/found404.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/page500.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/base.html" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/index.html" />
+        <option value="$PROJECT_DIR$/Seller/templates/seller/iframeExample.html" />
+        <option value="$PROJECT_DIR$/Seller/urls.py" />
+        <option value="$PROJECT_DIR$/Seller/views.py" />
+        <option value="$PROJECT_DIR$/Fresh_Store/settings.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/1.html" />
+        <option value="$PROJECT_DIR$/Buyer/urls.py" />
+        <option value="$PROJECT_DIR$/Buyer/templates/buyer/enterOrder.html" />
+        <option value="$PROJECT_DIR$/Fresh_Store/urls.py" />
+        <option value="$PROJECT_DIR$/Buyer/views.py" />
+        <option value="$PROJECT_DIR$/Buyer/admin.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="253" />
+    <option name="y" value="17" />
+    <option name="width" value="1007" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType ProjectPane="false" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Fresh_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fresh_Store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fresh_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fresh_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="Buyer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fresh_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fresh_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="Fresh_Store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fresh_Store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fresh_Store" type="462c0819:PsiDirectoryNode" />
+              <item name="Seller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\static\buyer\images" />
+      <recent name="D:\djangoProject\Fresh_Store\Seller\static\seller\css" />
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\static\buyer" />
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\templates\buyer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\djangoProject\Fresh_Store\static\buyer\js" />
+      <recent name="D:\djangoProject\Fresh_Store\Seller\templates\seller" />
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\templates\buyer" />
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\static\buyer\images" />
+      <recent name="D:\djangoProject\Fresh_Store\Buyer\static\buyer\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.Fresh_Store">
+    <configuration name="22222" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Buyer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fresh_Store" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Buyer/22222.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Ceshi_Zhuanyong" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/work/日常任务2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fresh_Store" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/work/日常任务2/Ceshi_Zhuanyong.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Fresh_Store" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Fresh_Store.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fresh_Store" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+    <configuration name="lx1211wxpy单人机器人" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/work/日常任务2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fresh_Store" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/work/日常任务2/lx1211wxpy单人机器人.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seller" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Fresh_Store" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seller/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Fresh_Store" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Ceshi_Zhuanyong" />
+      <item index="2" class="java.lang.String" itemvalue="Python.views" />
+      <item index="3" class="java.lang.String" itemvalue="Python.lx1211wxpy单人机器人" />
+      <item index="4" class="java.lang.String" itemvalue="Python.22222" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.22222" />
+        <item index="1" class="java.lang.String" itemvalue="Python.lx1211wxpy单人机器人" />
+        <item index="2" class="java.lang.String" itemvalue="Python.views" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Ceshi_Zhuanyong" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="32c5a6d2-184b-4715-a584-dbc31222980d" name="Default" comment="" />
+      <created>1547181037960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547181037960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="253" y="17" width="1007" height="698" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21013728" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5767098" sideWeight="0.5071138" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35060975" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46313798" sideWeight="0.5518293" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282313" sideWeight="0.61119515" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289225" sideWeight="0.4928862" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.259887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3265306" sideWeight="0.4959596" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Buyer/views.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Buyer/views.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/work/日常任务2/lx1314csdn刷访问.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/work/日常任务2/lx1314csdn刷访问.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Fresh_Store/settings.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="93" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://src:table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Buyer_order">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/buyCar_jump.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/conment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-847">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/PythonProject/Project1/Lib/site-packages/django/core/handlers/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/address.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="14" column="72" lean-forward="true" selection-start-line="14" selection-start-column="72" selection-end-line="14" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/buyer/images/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/static/seller/images/aiwrap.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/templates/seller/goods_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="720" column="8" lean-forward="false" selection-start-line="720" selection-start-column="8" selection-end-line="720" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Buyer_buyer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1154121293/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="226" column="4" lean-forward="false" selection-start-line="226" selection-start-column="4" selection-end-line="226" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Seller_seller">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/openstore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/goods_details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/goods_type.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3278">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Buyer_ordergoods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Buyer_buycar">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Seller_goods">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Seller_image">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/22222.py" />
+    <entry file="file://$PROJECT_DIR$/Buyer/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/order_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work/日常任务2/lx1314csdn刷访问.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="101" column="6" lean-forward="false" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+          <folding>
+            <element signature="e#146#2275#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/buyer/images/banner5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/buyer/images/banner4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/buyer/images/banner1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/PythonProject/Project1/Lib/site-packages/alipay/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="238" column="8" lean-forward="false" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/found404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/addAddress.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/page500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/static/buyer/images/huiyuan.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1985">
+          <caret line="227" column="32" lean-forward="false" selection-start-line="227" selection-start-column="32" selection-end-line="227" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/buyer/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/templates/seller/iframeExample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="275" column="0" lean-forward="true" selection-start-line="275" selection-start-column="0" selection-end-line="275" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/car_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/1.html" />
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/tiaozhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_Store/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1189">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a3182ecc/4b9b4225-5559-4ab6-b106-2a070d489f2d/main.Buyer_order">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/templates/buyer/enterOrder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="52" column="24" lean-forward="false" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_Store/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4321">
+          <caret line="377" column="0" lean-forward="false" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#442#859#0" expanded="false" />
+            <element signature="e#910#1086#0" expanded="false" />
+            <element signature="e#1122#1483#0" expanded="false" />
+            <element signature="e#1522#2324#0" expanded="false" />
+            <element signature="e#2364#2727#0" expanded="false" />
+            <element signature="e#2768#2825#0" expanded="false" />
+            <element signature="e#2871#3887#0" expanded="false" />
+            <element signature="e#2965#3887#0" expanded="false" />
+            <element signature="e#3935#5185#0" expanded="false" />
+            <element signature="e#5218#5276#0" expanded="false" />
+            <element signature="e#5290#5316#0" expanded="false" />
+            <element signature="e#5827#6370#0" expanded="false" />
+            <element signature="e#7510#8057#0" expanded="false" />
+            <element signature="e#8699#10554#0" expanded="false" />
+            <element signature="e#10607#10768#0" expanded="false" />
+            <element signature="e#10824#11420#0" expanded="false" />
+            <element signature="e#11490#11982#0" expanded="false" />
+            <element signature="e#12049#12166#0" expanded="false" />
+            <element signature="e#13337#13364#0" expanded="false" />
+            <element signature="e#16696#19557#0" expanded="false" />
+            <element signature="e#19589#19616#0" expanded="false" />
+            <element signature="e#19680#19871#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Seller/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Buyer/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fresh_Store/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
